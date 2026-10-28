@@ -85,15 +85,6 @@
 
 ---
 
-## 📈 Statistiques GitHub
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MohamedElAmineHoumada&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistiques GitHub" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedElAmineHoumada&layout=compact&theme=tokyonight&hide_border=true" alt="Langages les plus utilisés" />
-</p>
-
----
-
 ## 🤝 Contact
 
 Je suis ouvert aux opportunités de stage PFE en **DevOps, Cloud & Infrastructure** et en **Développement logiciel** au Maroc.
